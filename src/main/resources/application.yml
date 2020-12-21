@@ -1,0 +1,16 @@
+fehead:
+  smsProperties:
+    smsModel:
+      - des: 晨检成功
+        name: SMS_207501176
+      - des: 午检成功
+        name: SMS_207496194
+      - des: 提醒手动打卡
+        name: SMS_207531248
+mybatis:
+  mapper-locations: '{"classpath:mapper/*.xml","classpath*:ink/**/mapper/*.xml"}'
+server:
+  port: 8099
+spring:
+  profiles:
+    active: enc

@@ -60,3 +60,4 @@ mail.setting
 application-enc.properties
 src/main/resources/config/generatorConfig.xml
 *.sql
+application-enc.yml

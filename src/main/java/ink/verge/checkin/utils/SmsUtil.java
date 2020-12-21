@@ -39,8 +39,7 @@ import java.util.Map;
 @Component
 public class SmsUtil {
 
-    @Autowired
-    private FeheadProperties feheadProperties;
+    private FeheadProperties feheadProperties = new FeheadProperties();
 
 
     /**
