@@ -1,3 +1,4 @@
+# 请在https://github.com/fehead-studio/yiban-auto-checkin获得最新版本
 # 请勿商用
 # yiban-auto-checkin
 SUST晨午检自动打卡
